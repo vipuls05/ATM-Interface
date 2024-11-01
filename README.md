@@ -9,4 +9,3 @@ The project allows to perform following operations:
 3  Deposit money
 4  Exit
 5  Check another account
-
